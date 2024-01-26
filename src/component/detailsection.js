@@ -1,16 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
-//import logo1 from '../images/drive-fresh.png';
-import station1 from "../images/pp-01.png";
-//import mapimg from '../images/GoogleMapTA.webp';
-// import fs from "fs";
-
-import ToiletExterior from "../asset/images/Maharashtra/PNPBPAmdi/BP AMDI GENTS TOILET EXTERIOR.jpg";
-import ToiletInterior from "../asset/images/Maharashtra/PNPBPAmdi/BP AMDI GENTS TOILET INTERIOR.jpg";
-import LadiesToiletExterior from "../asset/images/Maharashtra/PNPBPAmdi/BP AMDI LADIES EXTERIOR.jpeg";
-import LadiesToiletInterior from "../asset/images/Maharashtra/PNPBPAmdi/LADIES TOILET INTERIOR.jpg";
 import ImagesPath from "./Imports";
-import GasStation from "../asset/images/Maharashtra/PNPBPAmdi/RO IN DAYLIGHT.jpg";
-// import { fstat } from "fs";
 import stores_data from "./stores.json";
 import toilet_image from "../asset/images/toilet.png";
 
