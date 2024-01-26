@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.07]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "10am - 6pm",
+        "description": "Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
+        "name": "Mumbai",
+        "phone": "+44 20 1234 5678",
+        "storeid": "1"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "10am - 6pm",
+        "description": "Come and try our award-winning cakes and pastries. We're part of a larger chain of patisseries and cafes.",
+        "name": "Pune",
+        "phone": "+44 117 121 2121",
+        "storeid": "2"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.4126, 23.2599]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "10am - 6pm",
+        "description": "Whatever the occasion, whether it's a birthday or a wedding, Josie's Patisserie has the perfect treat for you. We're part of a larger chain of patisseries and cafes.",
+        "name": "Bhopal",
+        "phone": "+44 1603 123456",
+        "storeid": "3"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5946, 12.9716]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "10am - 6pm",
+        "description": "A gourmet patisserie that will delight your senses. We're part of a larger chain of patisseries and cafes.",
+        "name": "Bangalore",
+        "phone": "+44 1202 343434",
+        "storeid": "4"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.385]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "10am - 6pm",
+        "description": "Spoil yourself or someone special with our classic pastries. We're part of a larger chain of patisseries and cafes.",
+        "name": "Hyderabad",
+        "phone": "+44 151 444 4444",
+        "storeid": "5"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.2707, 13.0827]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "10am - 6pm",
+        "description": "Come and feast your eyes and tastebuds on our delicious pastries and cakes. We're part of a larger chain of patisseries and cafes.",
+        "name": "Chennai",
+        "phone": "+44 5555 55555",
+        "storeid": "6"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.363892, 22.572645]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "patisserie",
+        "hours": "10am - 6pm",
+        "description": "Josie's Patisserie is family-owned, and our delectable pastries, cakes, and great coffee are renowed. We're part of a larger chain of patisseries and cafes.",
+        "name": "Kolkata",
+        "phone": "+44 29 6666 6666",
+        "storeid": "7"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.7873, 26.9124]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am - 9:30pm",
+        "description": "Oakham's favorite spot for fresh coffee and delicious cakes. We're part of a larger chain of patisseries and cafes.",
+        "name": "Jaipur",
+        "phone": "+44 7777 777777",
+        "storeid": "8"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.5714, 23.0225]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am - 9:30pm",
+        "description": "Enjoy freshly brewed coffe, and home baked cakes in our homely cafe. We're part of a larger chain of patisseries and cafes.",
+        "name": "Ahmedabad",
+        "phone": "+44 8888 88888",
+        "storeid": "9"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.5714, 23.0225]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am - 9:30pm",
+        "description": "A delicious array of pastries with many flavours, and fresh coffee in an snug cafe. We're part of a larger chain of patisseries and cafes.",
+        "name": "Surat",
+        "phone": "+44 1010 101010",
+        "storeid": "10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8577, 22.7196]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am - 9:30pm",
+        "description": "Grab a freshly brewed coffee, a decadent cake and relax in our idyllic cafe. We're part of a larger chain of patisseries and cafes.",
+        "name": "Indore",
+        "phone": "+44 1313 131313",
+        "storeid": "11"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.216721, 28.6448]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am - 9:30pm",
+        "description": "Come in and unwind at this idyllic cafe with fresh coffee and home made cakes. We're part of a larger chain of patisseries and cafes.",
+        "name": "Delhi",
+        "phone": "+44 1414 141414",
+        "storeid": "12"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.0882, 21.1458]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am - 9:30pm",
+        "description": "Fresh coffee and delicious cakes in an snug cafe. We're part of a larger chain of patisseries and cafes.",
+        "name": "Nagpur",
+        "phone": "+44 1717 17171",
+        "storeid": "13"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.1812, 22.3072]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am - 9:30pm",
+        "description": "Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh",
+        "name": "Vadodara",
+        "phone": "+99999999999",
+        "storeid": "14"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.7898, 19.9975]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am - 9:30pm",
+        "description": "MACT Square, Bhopal, Madhya Pradesh ",
+        "name": "Nashik",
+        "phone": "+99999999999",
+        "storeid": "15"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.41434949379264, 21.29683621564178]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am - 9:30pm",
+        "description": "MACT Square, Bhopal, Madhya Pradesh ",
+        "name": "National Park 16",
+        "phone": "+99999999999",
+        "storeid": "16"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.131129569256473, 40.325508673715092]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "hours": "8am - 9:30pm",
+        "description": "MACT Square, Bhopal, Madhya Pradesh ",
+        "name": "National Park 17",
+        "phone": "+99999999999",
+        "storeid": "16"
+      }
+    }
+  ]
+}

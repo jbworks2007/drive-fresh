@@ -1,0 +1,4037 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92.789946, 12.316909]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Middle button island national park | (2 Kms)",
+        "name": "Aniidco kadamtala",
+        "phone": "+44 20 1234 5678",
+        "storeid": "0",
+        "status": "ok",
+        "state": "Andman & Nicobar",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92.789946, 12.166805]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Middle button island national park | (5 Kms)",
+        "name": "Aniidco baratang",
+        "phone": "+44 20 1234 5678",
+        "storeid": "1",
+        "status": "ok",
+        "state": "Andman & Nicobar",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.791794, 17.423213]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Papikonda national park | (40 Kms)",
+        "name": "The girijan cooperative marketing society",
+        "phone": "+44 20 1234 5678",
+        "storeid": "2",
+        "status": "ok",
+        "state": "Andra Pradesh",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.56424, 14.767592]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Rajiv gandhi (rameswaram) national  | (4.7 Kms)",
+        "name": "t.v.r. filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "3",
+        "status": "ok",
+        "state": "AP",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.412084, 13.631832]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sri venkateswara national park | (8 Kms)",
+        "name": "Comco - millennium pride",
+        "phone": "+44 20 1234 5678",
+        "storeid": "4",
+        "status": "ok",
+        "state": "AP/TEL",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4012055177612, 17.4081206259729]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kasu brahmananda reddy national park | (6 Kms)",
+        "name": "Sri anjaneya motor fuels-shaikpet",
+        "phone": "+44 20 1234 5678",
+        "storeid": "5",
+        "status": "ok",
+        "state": "AP/TEL",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.5766587027526, 17.3366857606152]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mahaveer harina vanasthali national park | (3 Kms)",
+        "name": "Mehboobgunj service station, ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "6",
+        "status": "ok",
+        "state": "AP/TEL",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.6114, 17.3224]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mrugavani national park | (3 Kms)",
+        "name": "Hayat filling station, ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "7",
+        "status": "ok",
+        "state": "AP/TEL",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.317756652832, 17.3388407697967]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mrugavani national park | (26 Kms)",
+        "name": "Totabai sohanlal service station, ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "8",
+        "status": "ok",
+        "state": "AP/TEL",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.555436, 14.754513]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Rajiv gandhi(rameswaram) national park | (3 Kms)",
+        "name": "The proddatur municipality hpcl fs",
+        "phone": "+44 20 1234 5678",
+        "storeid": "9",
+        "status": "ok",
+        "state": "AP/TEL",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.004707, 17.65583]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Papikonda national park | (78 Kms)",
+        "name": "sri ram quality fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "10",
+        "status": "ok",
+        "state": "AP/TEL",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.966993, 26.47098]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Manas national park | (33 Kms)",
+        "name": "Nes simalaguri",
+        "phone": "+44 20 1234 5678",
+        "storeid": "11",
+        "status": "ok",
+        "state": "Assam",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92.778854, 26.81269]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Nameri national park | (17 Kms)",
+        "name": "Nes balipara",
+        "phone": "+44 20 1234 5678",
+        "storeid": "12",
+        "status": "ok",
+        "state": "Assam",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [93.611514, 26.639691]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kaziranga national park | (15 Kms)",
+        "name": "Kashiram chowdhury & co-bokakhat",
+        "phone": "+44 20 1234 5678",
+        "storeid": "13",
+        "status": "ok",
+        "state": "Assam",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [93.406465, 26.589231]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kaziranga national park | (10 Kms)",
+        "name": "Kaziranga filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "14",
+        "status": "ok",
+        "state": "Assam",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [93.606941, 26.640453]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kaziranga national park | (15 Kms)",
+        "name": "Ladulal jain & sons(bokakhat)",
+        "phone": "+44 20 1234 5678",
+        "storeid": "15",
+        "status": "ok",
+        "state": "Assam",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [93.575889, 26.641485]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kaziranga national park | (14 Kms)",
+        "name": "Ramdhenu filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "16",
+        "status": "ok",
+        "state": "Assam",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [93.723753, 26.631656]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kaziranga national park | (15 Kms)",
+        "name": "Ladulal jain & sons(numaligarh)",
+        "phone": "+44 20 1234 5678",
+        "storeid": "17",
+        "status": "ok",
+        "state": "Assam",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.969114, 26.515876]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Manas national park | (12 Kms)",
+        "name": "Sarkar kisan seva kendra",
+        "phone": "+44 20 1234 5678",
+        "storeid": "18",
+        "status": "ok",
+        "state": "Assam",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.19884, 27.484024]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Namdapha national park | (20 Kms)",
+        "name": "Miao fuel station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "19",
+        "status": "ok",
+        "state": "Assam",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92.644628, 27.012146]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Nameri national park | (20 Kms)",
+        "name": "Kameng tpt co-op soc ltd",
+        "phone": "+44 20 1234 5678",
+        "storeid": "20",
+        "status": "ok",
+        "state": "Assam",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.901366, 27.424864]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Valmiki tiger reserve  | (3 Kms)",
+        "name": "Valmiki petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "21",
+        "status": "ok",
+        "state": "BIHAR",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.15343, 23.97185]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Betla national park | (4 Kms)",
+        "name": "Mshsd bhola nath filling centre         ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "22",
+        "status": "ok",
+        "state": "BIHAR/JHARKHAND",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.1340116, 27.096235]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Valmiki national park | (72 Kms)",
+        "name": "Kailash service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "23",
+        "status": "ok",
+        "state": "BIHAR/JHARKHAND",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.942346, 19.046793]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kanger national park/indravati national park | (26.7 Kms)",
+        "name": "Gaidu fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "24",
+        "status": "ok",
+        "state": "CG",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.126666, 29.39611]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Corbett national park | (1 Kms)",
+        "name": "Makhanlal chajjumal",
+        "phone": "+44 20 1234 5678",
+        "storeid": "25",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.348733, 30.40756]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Valley of flowers national park | (221 Kms)",
+        "name": "Alaknanda filling station ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "26",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.2054596, 30.0270723]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Rajaji national park | (30 Kms)",
+        "name": "Surendra and sons fuel station ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "27",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2635874943315, 31.701676143173]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Great himalayan national park | (32 Kms)",
+        "name": "Gorsi highway fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "28",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.9869767912964, 28.443955799663154]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sultan national park | (29 Kms)",
+        "name": "Hp boxer fuel point",
+        "phone": "+44 20 1234 5678",
+        "storeid": "29",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.9262542627342, 28.473822763070135]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sultan national park | (7 Kms)",
+        "name": "R c filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "30",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.8957307228306, 28.488263029663695]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sultan national park | (2 Kms)",
+        "name": "Hp partap filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "31",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.468024, 30.753889]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gangotri national park | (160 Kms)",
+        "name": "Krishna filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "32",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.48504, 30.28095]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kalesar national park | (20 Kms)",
+        "name": "Hp jai durga filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "33",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.53007, 30.48227]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Simbalbara national park | (5 Kms)",
+        "name": "Asmit h p centre",
+        "phone": "+44 20 1234 5678",
+        "storeid": "34",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.00446, 30.56242]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Govind national park | (150 Kms)",
+        "name": "Jaspal rana",
+        "phone": "+44 20 1234 5678",
+        "storeid": "35",
+        "status": "ok",
+        "state": "DELHI/HARYANA/HP/UK",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.413565, 20.766383]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (9 kms Kms)",
+        "name": "New bharat ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "36",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.0914, 22.42529]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (147 kms Kms)",
+        "name": "Uno petroleum ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "37",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.461224, 21.537219]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (64 kms Kms)",
+        "name": "Shantilal parmanand & co",
+        "phone": "+44 20 1234 5678",
+        "storeid": "38",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.2817946, 22.7332572]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Blackbuck national park | (34 kms Kms)",
+        "name": "Bp kalyangadh",
+        "phone": "+44 20 1234 5678",
+        "storeid": "39",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.50191, 21.61653]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national forest  | (25 Kms)",
+        "name": "Mahasagar petroleum ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "40",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.16362, 21.41853]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national forest  | (40 Kms)",
+        "name": "Sai fuel station ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "41",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [69.86652, 22.39388]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Marine national park | (30 Kms)",
+        "name": "Kundalia petroleum ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "42",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [69.26347, 22.10504]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Marine national park | (50 Kms)",
+        "name": "Gokaldas jamandas bhatia",
+        "phone": "+44 20 1234 5678",
+        "storeid": "43",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.370492, 20.773332]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Vansda national park  | (12 Kms)",
+        "name": "Shree mahaveer petroleum ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "44",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.33138, 20.802256]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Vansda national park  | (17 Kms)",
+        "name": "Shree satya sai petroleum ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "45",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.23247, 22.34012]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Velavadar blackbuck national park | (50 Kms)",
+        "name": "Laxmi fuel station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "46",
+        "status": "ok",
+        "state": "Gujarat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.55597, 21.11222]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (40 Kms)",
+        "name": "Madhuram petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "47",
+        "status": "ok",
+        "state": "GUJARAT",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.5181, 21.041]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (39 Kms)",
+        "name": "Om petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "48",
+        "status": "ok",
+        "state": "GUJARAT",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.2949, 21.83792]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (109 Kms)",
+        "name": "Mahadev petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "49",
+        "status": "ok",
+        "state": "GUJARAT",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.79846816, 21.32742874]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Vansda national park  | (11 Kms)",
+        "name": "Marvin petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "50",
+        "status": "ok",
+        "state": "GUJARAT",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.6397, 21.781]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (112 Kms)",
+        "name": "Laxmi petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "51",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.490494, 21.600838]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (70 Kms)",
+        "name": "Vasudev petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "52",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.470822, 21.574437]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (68 Kms)",
+        "name": "Balaji petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "53",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.464342, 21.557484]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (66 Kms)",
+        "name": "Dipak trading co",
+        "phone": "+44 20 1234 5678",
+        "storeid": "54",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.461793, 21.511558]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (61 Kms)",
+        "name": "Jagat auto services",
+        "phone": "+44 20 1234 5678",
+        "storeid": "55",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.0914, 22.42529]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Marine national park | (147 Kms)",
+        "name": "Uno petroleum ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "56",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.023455, 22.453726]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Marine national park | (138 Kms)",
+        "name": "Chandramauli",
+        "phone": "+44 20 1234 5678",
+        "storeid": "57",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [69.958989, 22.436341]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Marine national park | (132 Kms)",
+        "name": "Harsiddhi petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "58",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.779787, 22.126001]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (142 Kms)",
+        "name": "Ribda petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "59",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.768433, 22.0067246]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (132 Kms)",
+        "name": "Bp biliyada",
+        "phone": "+44 20 1234 5678",
+        "storeid": "60",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.793152, 21.95562379]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (128 Kms)",
+        "name": "Galaxy petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "61",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.6776, 21.8222]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gir national park | (118 Kms)",
+        "name": "Swapna petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "62",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [69.833607, 22.359256]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Marine national park | (114 Kms)",
+        "name": "Siddhi vinayak petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "63",
+        "status": "ok",
+        "state": "Gujrat",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.56374, 30.30776]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kalesar national park | (8 Kms)",
+        "name": "Narayan energy station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "64",
+        "status": "ok",
+        "state": "Haryana",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.9338, 28.47181]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sultanpur national bank (bird sanctuary) | (20 Kms)",
+        "name": "Shree sai fuels,",
+        "phone": "+44 20 1234 5678",
+        "storeid": "65",
+        "status": "ok",
+        "state": "Haryana",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.00051, 28.44235]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sultanpur national bank (bird sanctuary) | (28 Kms)",
+        "name": "Shaheed nanak chand filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "66",
+        "status": "ok",
+        "state": "Haryana",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.572461779824, 30.330037868947]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kalesar national park | (1 Kms)",
+        "name": "Kalesar filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "67",
+        "status": "ok",
+        "state": "Haryana",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.69485, 31.4284]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Great himalyan national park | (65 Kms)",
+        "name": "Sagar filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "68",
+        "status": "ok",
+        "state": "Himachal Pradesh",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.10946, 31.95785]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Inderkilla national park | (75 Kms)",
+        "name": "Sud and company",
+        "phone": "+44 20 1234 5678",
+        "storeid": "69",
+        "status": "ok",
+        "state": "Himachal Pradesh",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.225045, 31.985096]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Khirganga national park | (22 Kms)",
+        "name": "Manikaran filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "70",
+        "status": "ok",
+        "state": "Himachal Pradesh",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1426105, 31.8890105]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Khirganga national park | (70 Kms)",
+        "name": "Parvati service centre",
+        "phone": "+44 20 1234 5678",
+        "storeid": "71",
+        "status": "ok",
+        "state": "Himachal Pradesh",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.1615921, 23.916728]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Betla national park | (6 Kms)",
+        "name": "Shivam janki service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "72",
+        "status": "ok",
+        "state": "Jhanrkhand",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.019802, 12.042159]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bandipur | (5 Kms)",
+        "name": "Rudra fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "73",
+        "status": "ok",
+        "state": "KARNATAKA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.588532, 12.842643]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Banerghatta national park | (5.6 Kms)",
+        "name": "S m filling center",
+        "phone": "+44 20 1234 5678",
+        "storeid": "74",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.247567, 13.420942]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kudremukh national park | (1 Kms)",
+        "name": "Sharadamba service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "75",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.5046, 14.10574]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Anshi national park | (150 Kms)",
+        "name": "Shivani service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "76",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.676157, 12.12029]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bandipur national park | (50 Kms)",
+        "name": "Sanjaya service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "77",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.670718, 11.927592]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bandipur national park | (29 Kms)",
+        "name": "Bmp fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "78",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.590067, 12.86014]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bannerghatta national park | (9 KM Kms)",
+        "name": "M/s ekadanta fuel station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "79",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.589218, 12.832959]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bannerghatta national park | (6 KM Kms)",
+        "name": "M/s krishna shlooka petroleums",
+        "phone": "+44 20 1234 5678",
+        "storeid": "80",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.583144, 12.817199]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bannerghatta national park | (3 KM Kms)",
+        "name": "M/s sp agencies",
+        "phone": "+44 20 1234 5678",
+        "storeid": "81",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.36496, 13.23135]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kudremukh national park | (20 Kms)",
+        "name": "Pattabhi fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "82",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.299507, 12.023554]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Nagarahole national park | (6.4 Kms)",
+        "name": "Shreya fuel station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "83",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.345168, 12.054788]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Nagarahole national park | (13 Kms)",
+        "name": "Star fuel station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "84",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.463524, 12.125819]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Nagarahole national park | (30 Kms)",
+        "name": "Sangeetha enterprises",
+        "phone": "+44 20 1234 5678",
+        "storeid": "85",
+        "status": "ok",
+        "state": "Karnataka",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.58526, 13.02475]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bandipur national park | (22 Kms)",
+        "name": "Raja rajeshwari quick fs",
+        "phone": "+44 20 1234 5678",
+        "storeid": "86",
+        "status": "ok",
+        "state": "KARNATAKA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.585346, 12.8111958]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bannerghatta national park | (3 Kms)",
+        "name": "Sbr agencies",
+        "phone": "+44 20 1234 5678",
+        "storeid": "87",
+        "status": "ok",
+        "state": "KARNATAKA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.76524, 15.3354]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Anshi national park | (75 Kms)",
+        "name": "gajanan petrol pump(15857730)",
+        "phone": "+44 20 1234 5678",
+        "storeid": "88",
+        "status": "ok",
+        "state": "KARNATAKA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.758802, 13.177668]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kudremukh national park | (60 Kms)",
+        "name": "Budhagi service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "89",
+        "status": "ok",
+        "state": "KARNATAKA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.298516, 12.305265]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Nagarahole(rajiv gandhi) national park | (51 Kms)",
+        "name": "Sri maruthi ss",
+        "phone": "+44 20 1234 5678",
+        "storeid": "90",
+        "status": "ok",
+        "state": "KARNATAKA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.060435, 10.085718]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Eravikulam national park | (8 Kms)",
+        "name": "Chelackal krishnan nair & sons",
+        "phone": "+44 20 1234 5678",
+        "storeid": "91",
+        "status": "ok",
+        "state": "Kerala",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06168081, 10.07222883]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Eravikulam national park | (10 Kms)",
+        "name": "P k sajeev & co.",
+        "phone": "+44 20 1234 5678",
+        "storeid": "92",
+        "status": "ok",
+        "state": "Kerala",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.161458, 9.83071]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mathikettan shola national park | (30 Kms)",
+        "name": "Sundaran fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "93",
+        "status": "ok",
+        "state": "KERALA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.16520004, 9.609391315]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Periyar national park | (2 Kms)",
+        "name": "Sj fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "94",
+        "status": "ok",
+        "state": "Kerala",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.5161, 11.0296]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Silent valley national park | (30 Kms)",
+        "name": "Ps petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "95",
+        "status": "ok",
+        "state": "Kerala",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1591808, 9.6160112]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Periyar national park | (1 Kms)",
+        "name": "M/s leela gopidas ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "96",
+        "status": "ok",
+        "state": "Kerala",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.6393903791657, 11.0928496979934]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Silent valley national park | (1 Kms)",
+        "name": "Fine fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "97",
+        "status": "ok",
+        "state": "KERALA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2110112, 9.9833681]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mathikettan shola national park | (65 Kms)",
+        "name": "M/s thomas varkey ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "98",
+        "status": "ok",
+        "state": "Kerala",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.02, 23.72]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bandhavgarh national park | (2 Kms)",
+        "name": "Adhoc happy fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "99",
+        "status": "ok",
+        "state": "Madhya Pradesh",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.35939, 22.46551]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kanha national park | (5 Kms)",
+        "name": "Kanha filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "100",
+        "status": "ok",
+        "state": "Madhya Pradesh",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.787757, 25.414998]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Madhav national park | (9 Kms)",
+        "name": "Sankalp filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "101",
+        "status": "ok",
+        "state": "Madhya Pradesh",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.45071, 21.72637]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Pench national park | (7 Kms)",
+        "name": "Nav shakti petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "102",
+        "status": "ok",
+        "state": "Madhya Pradesh",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.44157, 21.71347]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Pench national park | (5 Kms)",
+        "name": "Om ashapura petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "103",
+        "status": "ok",
+        "state": "Madhya Pradesh",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.207192, 22.706192]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Satpura national park | (22 Kms)",
+        "name": "Choudhary indian oil",
+        "phone": "+44 20 1234 5678",
+        "storeid": "104",
+        "status": "ok",
+        "state": "Madhya Pradesh",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.3930172114868, 23.2263011430997]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Van vihar national park | (5 Kms)",
+        "name": " hp auto centre ,p&t chouraha ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "105",
+        "status": "ok",
+        "state": "Madhya Pradesh",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.2342963, 21.2819635]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Pench national park | (49 Kms)",
+        "name": "Mhks fuel retail",
+        "phone": "+44 20 1234 5678",
+        "storeid": "106",
+        "status": "ok",
+        "state": "Maharashtra",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.248903, 21.375395]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Pench national park | (31 Kms)",
+        "name": "Bp amdi",
+        "phone": "+44 20 1234 5678",
+        "storeid": "107",
+        "status": "ok",
+        "state": "Maharashtra",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.255202, 21.386482]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Pench national park | (30 Kms)",
+        "name": "Pb jaiswal(hsd)",
+        "phone": "+44 20 1234 5678",
+        "storeid": "108",
+        "status": "ok",
+        "state": "Maharashtra",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.22909, 21.31217]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Pench national park | (39 Kms)",
+        "name": "Shri balaji filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "109",
+        "status": "ok",
+        "state": "Maharashtra",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.018889, 20.219894]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Tadoba national park | (60 Kms)",
+        "name": "Manakchand jethamal maloo",
+        "phone": "+44 20 1234 5678",
+        "storeid": "110",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.13996, 20.09617]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Tadoba national park | (43 Kms)",
+        "name": "Shri varadvinayak petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "111",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.287065, 19.972567]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Tadoba national park | (20 Kms)",
+        "name": "V. m. kotpalliwar",
+        "phone": "+44 20 1234 5678",
+        "storeid": "112",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.145797, 20.330836]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Tadoba national park | (79 Kms)",
+        "name": "Lonkar petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "113",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.386075, 20.500952]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Tadoba national park | (19 Kms)",
+        "name": "Pise petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "114",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.183765, 20.0326]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Tadoba national park | (31 Kms)",
+        "name": "Gaurav petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "115",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.313468, 20.847612]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Karandala wild life sanctury | (20 Kms)",
+        "name": "Laksh petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "116",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.841524, 21.067043]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Nagzira wild life sanctury | (25 Kms)",
+        "name": "Shri ganesh servo centre",
+        "phone": "+44 20 1234 5678",
+        "storeid": "117",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.996398, 21.086835]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Nagzira wild life sanctury | (30 Kms)",
+        "name": "Kapgate service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "118",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.094532, 20.912352]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Navegao bandh wild life sanctury | (10 Kms)",
+        "name": "Shree balaji servo petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "119",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.241908, 21.359497]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Pench national park | (35 Kms)",
+        "name": "Lmj pet (adhoc)- coco amdi",
+        "phone": "+44 20 1234 5678",
+        "storeid": "120",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.484306, 20.003416]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Tadoba wild life sanctury | (12 Kms)",
+        "name": "Shree mahadeo petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "121",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.300982, 19.994908]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Tadoba wild life sanctury | (20 Kms)",
+        "name": "Sargam petroleum services",
+        "phone": "+44 20 1234 5678",
+        "storeid": "122",
+        "status": "ok",
+        "state": "MAHARASHTRA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [93.8110315391992, 24.426465373398]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Keibul lamjao national park | (6 Kms)",
+        "name": "M/s ningthouja ksk",
+        "phone": "+44 20 1234 5678",
+        "storeid": "123",
+        "status": "ok",
+        "state": "Manipur",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.24975, 25.594109]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Nokrek national park | (20 Kms)",
+        "name": "Momin pol service",
+        "phone": "+44 20 1234 5678",
+        "storeid": "124",
+        "status": "ok",
+        "state": "Meghalaya",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.2502182, 19.9981687]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Tadoba national park | (36 Kms)",
+        "name": "Om traders",
+        "phone": "+44 20 1234 5678",
+        "storeid": "125",
+        "status": "ok",
+        "state": "MH/GOA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.25351, 19.99721]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Tadoba national park | (35 Kms)",
+        "name": "Sainik fuel station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "126",
+        "status": "ok",
+        "state": "MH/GOA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.98292, 21.08408]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Navegaon national park | (46 Kms)",
+        "name": "Radhesyam agarwal",
+        "phone": "+44 20 1234 5678",
+        "storeid": "127",
+        "status": "ok",
+        "state": "MH/GOA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.093446, 20.90812]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Navegaon national park | (16 Kms)",
+        "name": "Radhika petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "128",
+        "status": "ok",
+        "state": "MH/GOA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.1980259069, 21.21305511539]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Pench national park | (64 Kms)",
+        "name": "Kunti ratan f s ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "129",
+        "status": "ok",
+        "state": "MH/GOA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.16019, 21.21212]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Pench national park | (68 Kms)",
+        "name": "Navin motors",
+        "phone": "+44 20 1234 5678",
+        "storeid": "130",
+        "status": "ok",
+        "state": "MH/GOA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.865257, 19.220396]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sanjay gandhi national park | (1 Kms)",
+        "name": "Auto care centre",
+        "phone": "+44 20 1234 5678",
+        "storeid": "131",
+        "status": "ok",
+        "state": "MH/GOA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8575032949448, 19.1614981016245]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sanjay gandhi national park | (9 Kms)",
+        "name": "Auto care centre",
+        "phone": "+44 20 1234 5678",
+        "storeid": "132",
+        "status": "ok",
+        "state": "MH/GOA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92.753244, 22.914502]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Phawngpui blue mountain national park | (149 Kms)",
+        "name": "Jedaz filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "133",
+        "status": "ok",
+        "state": "MIZORAM",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.300021, 23.325919]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Van vihar national park  | (18 Kms)",
+        "name": "Atharva raj highway seervices",
+        "phone": "+44 20 1234 5678",
+        "storeid": "134",
+        "status": "ok",
+        "state": "MP",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.707103, 22.793794]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Satpura national park  | (28 Kms)",
+        "name": "Sankalp filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "135",
+        "status": "ok",
+        "state": "MP",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.22209, 26.17031]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Madhav national park | (122 Kms)",
+        "name": "Kl petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "136",
+        "status": "ok",
+        "state": "MP",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.05255, 26.11719]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Madhav national park | (99.6 Kms)",
+        "name": "Tikait fuels & highway service",
+        "phone": "+44 20 1234 5678",
+        "storeid": "137",
+        "status": "ok",
+        "state": "MP",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.04682, 26.11752]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Madhav national park | (99.1 Kms)",
+        "name": "Shivdev fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "138",
+        "status": "ok",
+        "state": "MP",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.12852, 22.43691]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kanha national park | (80 Kms)",
+        "name": "Shri ram fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "139",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.6510271048935, 25.4070178003158]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Madhav national park | (12 Kms)",
+        "name": "agrawal fuel station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "140",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.38885, 23.698967]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bandhavgarh national park | (50 Kms)",
+        "name": "Rcr filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "141",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.60279, 22.56411]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Indira priyadarshini pench national park | (80 Kms)",
+        "name": "Rai petroleum (bamhori)",
+        "phone": "+44 20 1234 5678",
+        "storeid": "142",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.3963, 23.2478]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Van vihar national park | (7 Kms)",
+        "name": "Yours service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "143",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.7313783197517, 21.9406236035946]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Simlipal national park | (118 Kms)",
+        "name": "Ms/hsd ayo kamakhya fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "144",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.538484, 23.360718]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Guru ghasidas (sanjay) national park | (173 Kms)",
+        "name": "Mshsd bol bum  petroleum                ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "145",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.18009, 24.70334]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Panna national park | (54 Kms)",
+        "name": "Diamond service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "146",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.283928, 22.771133]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Satpura national park | (32 Kms)",
+        "name": "Dr vyas petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "147",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.3550075679321, 22.743671214032]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Satpura national park | (58 Kms)",
+        "name": "Pragati ser st",
+        "phone": "+44 20 1234 5678",
+        "storeid": "148",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.380528, 18.861741]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Indravati national park | (100 Kms)",
+        "name": "Chintabagu police kalyan petrol pump",
+        "phone": "+44 20 1234 5678",
+        "storeid": "149",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.92657, 19.02993]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kanger valley national park | (25 Kms)",
+        "name": "Khanda mudia fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "150",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.21466, 23.22675]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Fossil national park | (56 Kms)",
+        "name": "Aapna petrol pump",
+        "phone": "+44 20 1234 5678",
+        "storeid": "151",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.36714, 24.33416]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sanjay national park | (154 Kms)",
+        "name": "Baghwar petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "152",
+        "status": "ok",
+        "state": "MP/CG",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [93.2815945779724, 26.5769067556737]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kaziranga national park | (30 Kms)",
+        "name": "Duarbagori co operative society ltd.",
+        "phone": "+44 20 1234 5678",
+        "storeid": "153",
+        "status": "ok",
+        "state": "NORTH EAST",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.9691143035889, 26.4356857855324]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Manas national park | (20 Kms)",
+        "name": "Jajodia trading company ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "154",
+        "status": "ok",
+        "state": "NORTH EAST",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [91.31353, 23.63578]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Clouded leopard national park | (7 Kms)",
+        "name": "Maa kasbeswari filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "155",
+        "status": "ok",
+        "state": "NORTH EAST",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [91.479445, 25.252987]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bison national park | (14 Kms)",
+        "name": "Tripureshwari energy station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "156",
+        "status": "ok",
+        "state": "NORTH EAST",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.749, 21.9418]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Simlipal national park | (45 Kms)",
+        "name": "Sharda service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "157",
+        "status": "ok",
+        "state": "Odisha",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.1147, 21.1111]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Simlipal national park | (139 Kms)",
+        "name": "Srima fuel",
+        "phone": "+44 20 1234 5678",
+        "storeid": "158",
+        "status": "ok",
+        "state": "Odisha",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.8365, 21.4923]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Simlipal national park | (63 Kms)",
+        "name": "Prudential filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "159",
+        "status": "ok",
+        "state": "Odisha",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.8019, 21.8498]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Simlipal national park | (47 Kms)",
+        "name": "Buddhikhamari fs",
+        "phone": "+44 20 1234 5678",
+        "storeid": "160",
+        "status": "ok",
+        "state": "Odisha",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.7061, 21.9749]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Simlipal national park | (23 Kms)",
+        "name": "Ambica filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "161",
+        "status": "ok",
+        "state": "Odisha",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.5720211, 20.569886]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bhitarkanika national park | (70 Kms)",
+        "name": "M/s rajnagar fs",
+        "phone": "+44 20 1234 5678",
+        "storeid": "162",
+        "status": "ok",
+        "state": "ODISHA",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.831394635582, 34.0753488769228]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Dachigam national park | (16 Kms)",
+        "name": "M/s ch. aishi ram durganag",
+        "phone": "+44 20 1234 5678",
+        "storeid": "163",
+        "status": "ok",
+        "state": "PUNJAB/J&K",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.1244311928749, 34.5751163603418]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Hemis national park | (203 Kms)",
+        "name": "M/s nun kun filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "164",
+        "status": "ok",
+        "state": "PUNJAB/J&K",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.7620741752548, 33.3227431847727]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kishtwar national park  | (15 Kms)",
+        "name": "M/s hill view service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "165",
+        "status": "ok",
+        "state": "PUNJAB/J&K",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.8247, 34.0758]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near City forest (salim ali) national park | (10 Kms)",
+        "name": "Chinar motors",
+        "phone": "+44 20 1234 5678",
+        "storeid": "166",
+        "status": "ok",
+        "state": "PUNJAB/J&K",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.88959, 26.94525]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Desert national park  | (25 Kms)",
+        "name": "Akash fuel cntre",
+        "phone": "+44 20 1234 5678",
+        "storeid": "167",
+        "status": "ok",
+        "state": "Rajasthan",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.92258, 26.9146]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Desert national park  | (35 Kms)",
+        "name": "Sadguru filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "168",
+        "status": "ok",
+        "state": "Rajasthan",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.26983, 27.14879]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Keoladeo ghana national park rajasthan | (15 Kms)",
+        "name": "Raj service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "169",
+        "status": "ok",
+        "state": "Rajasthan",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.9566344, 26.89383933]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Desert national park | (40 Kms)",
+        "name": "Swangiya ji automobiles",
+        "phone": "+44 20 1234 5678",
+        "storeid": "170",
+        "status": "ok",
+        "state": "RAJASTHAN",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.4717, 27.1911]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Keoladeo ghana national park | (8 Kms)",
+        "name": "Shekhawati filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "171",
+        "status": "ok",
+        "state": "RAJASTHAN",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.336744, 25.999479]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Ranthambore national park | (17 Kms)",
+        "name": "Yashroop petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "172",
+        "status": "ok",
+        "state": "RAJASTHAN",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.549586, 27.481632]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sariska national park | (10 Kms)",
+        "name": "Bhartiya filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "173",
+        "status": "ok",
+        "state": "RAJASTHAN",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.468139, 26.12519]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Ranthambore national park | (14 Kms)",
+        "name": "Shri ganpati ser station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "174",
+        "status": "ok",
+        "state": "RAJASTHAN",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.36967, 25.99274]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Ranthambore national park | (13 Kms)",
+        "name": "Gupta hp fuel",
+        "phone": "+44 20 1234 5678",
+        "storeid": "175",
+        "status": "ok",
+        "state": "RAJASTHAN",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.365415, 26.053533]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Ranthambore national park | (15 Kms)",
+        "name": "Shri harsh filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "176",
+        "status": "ok",
+        "state": "RAJASTHAN",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.3401, 26.00221]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Ranthambore national park | (15 Kms)",
+        "name": "Vinayak hp",
+        "phone": "+44 20 1234 5678",
+        "storeid": "177",
+        "status": "ok",
+        "state": "RAJASTHAN",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.541446, 27.454225]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sariska national park | (24 Kms)",
+        "name": "dhawla service station (120 cat)",
+        "phone": "+44 20 1234 5678",
+        "storeid": "178",
+        "status": "ok",
+        "state": "RAJASTHAN",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.5902, 27.31253]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Khangchendzonga national park | (13 Kms)",
+        "name": "Bhagirathi & sons fuelling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "179",
+        "status": "ok",
+        "state": "Sikkim",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.5001, 27.18784]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Khangchendzonga national park | (39 Kms)",
+        "name": "Pankaj fuel center",
+        "phone": "+44 20 1234 5678",
+        "storeid": "180",
+        "status": "ok",
+        "state": "Sikkim",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.069886, 12.856277]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Arignar anna zoological park | (5 Kms)",
+        "name": "Kavitha agencies",
+        "phone": "+44 20 1234 5678",
+        "storeid": "181",
+        "status": "ok",
+        "state": "Tamil Nadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.987664, 10.500723]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Indira gandhi (annamalai) national park | (48 Kms)",
+        "name": "Jmsk agency",
+        "phone": "+44 20 1234 5678",
+        "storeid": "182",
+        "status": "ok",
+        "state": "Tamil Nadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.491087, 11.502789]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mudumalai national park  | (5 Kms)",
+        "name": "S.m.oil company",
+        "phone": "+44 20 1234 5678",
+        "storeid": "183",
+        "status": "ok",
+        "state": "Tamil Nadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.711571, 11.410467]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mukurthi national park  | (34 Kms)",
+        "name": "Sakthi fuel agencies",
+        "phone": "+44 20 1234 5678",
+        "storeid": "184",
+        "status": "ok",
+        "state": "Tamil Nadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.91916, 10.53465]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Indira gandhi (annamalai) national park | (180 Kms)",
+        "name": "Kadeeshwarar agency",
+        "phone": "+44 20 1234 5678",
+        "storeid": "185",
+        "status": "ok",
+        "state": "TAMIL NADU/P",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.70366, 11.40693]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mudumalai national park | (20 Kms)",
+        "name": "Golden petroleum",
+        "phone": "+44 20 1234 5678",
+        "storeid": "186",
+        "status": "ok",
+        "state": "TAMIL NADU/P",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.51263, 11.56199]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mukurthi national park | (32 Kms)",
+        "name": "C govindhan ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "187",
+        "status": "ok",
+        "state": "TAMIL NADU/P",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.13288, 13.03878]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Guindy national park | (3 Kms)",
+        "name": "Sarathy agencies",
+        "phone": "+44 20 1234 5678",
+        "storeid": "188",
+        "status": "ok",
+        "state": "Tamilnadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.22225, 13.01272]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Guindy national park | (5 Kms)",
+        "name": "K paramasivan & sons",
+        "phone": "+44 20 1234 5678",
+        "storeid": "189",
+        "status": "ok",
+        "state": "Tamilnadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.25533, 13.00633]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Guindy national park | (2 Kms)",
+        "name": "Sakthi services",
+        "phone": "+44 20 1234 5678",
+        "storeid": "190",
+        "status": "ok",
+        "state": "Tamilnadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.22301, 13.0113]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Guindy national park | (3 Kms)",
+        "name": "Bp velachery",
+        "phone": "+44 20 1234 5678",
+        "storeid": "191",
+        "status": "ok",
+        "state": "Tamilnadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.49151, 11.50223]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Madumalai national park | (25 Kms)",
+        "name": "Srinivasa service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "192",
+        "status": "ok",
+        "state": "Tamilnadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.89451, 11.38453]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gulf of mannar marine national park | (5 Kms)",
+        "name": "Arul prakasam poopularyan",
+        "phone": "+44 20 1234 5678",
+        "storeid": "193",
+        "status": "ok",
+        "state": "Tamilnadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.27926, 9.286081]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gulf of mannar marine national park | (8 Kms)",
+        "name": "Balamanikandan fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "194",
+        "status": "ok",
+        "state": "Tamilnadu",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.57926, 17.336349]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mahaveer harina vanasthali national park | (0.6 Kms)",
+        "name": "Swathi enterprises",
+        "phone": "+44 20 1234 5678",
+        "storeid": "195",
+        "status": "ok",
+        "state": "Telangana",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.41488, 17.426301]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kasu kasu brahmananda reddy (kbr) national park  | (0.5 Kms)",
+        "name": "Jubilee hills filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "196",
+        "status": "ok",
+        "state": "Telangana",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.58031, 17.336449]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mahaveer harina vanasthali national park | (0.5 Kms)",
+        "name": "G.k.t.c.",
+        "phone": "+44 20 1234 5678",
+        "storeid": "197",
+        "status": "ok",
+        "state": "Telangana",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.28877, 17.331427]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mrugavani national park  | (6.2 Kms)",
+        "name": "Ts police welfare society-cyd-mbd",
+        "phone": "+44 20 1234 5678",
+        "storeid": "198",
+        "status": "ok",
+        "state": "Telangana",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.411909, 17.423475]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Kbr national park | (1 Kms)",
+        "name": "Mohan's",
+        "phone": "+44 20 1234 5678",
+        "storeid": "199",
+        "status": "ok",
+        "state": "TELANGANA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.589085, 17.364922]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mahaveer harina vanasthali | (3 Kms)",
+        "name": "Coco bandlaguda",
+        "phone": "+44 20 1234 5678",
+        "storeid": "200",
+        "status": "ok",
+        "state": "TELANGANA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.313, 17.339]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mrugavani national park : chilkur | (2 Kms)",
+        "name": "Y s filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "201",
+        "status": "ok",
+        "state": "TELANGANA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [91.9654, 23.9921]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Bison  national park | (13 Kms)",
+        "name": "Nikhil petroleum ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "202",
+        "status": "ok",
+        "state": "TRIPURA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [91.340954, 23.610679]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Clouded leopard national park | (20 Kms)",
+        "name": "Purna petroleum agency",
+        "phone": "+44 20 1234 5678",
+        "storeid": "203",
+        "status": "ok",
+        "state": "TRIPURA",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.487, 28.33]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Dudhwa national park | (30 Kms)",
+        "name": "Satnam tractor service",
+        "phone": "+44 20 1234 5678",
+        "storeid": "204",
+        "status": "ok",
+        "state": "UP",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.83345, 27.91257]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Dudhwa national park | (85 Kms)",
+        "name": "Shreyash filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "205",
+        "status": "ok",
+        "state": "UTTAR PRADESH",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.18982, 30.00028]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Raja ji national park | (1 Kms)",
+        "name": "M.j.fuels ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "206",
+        "status": "ok",
+        "state": "Uttarakhand",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.067484, 29.341739]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Corbett national park | (12 Kms)",
+        "name": "Shaheed ram prasad dhyani",
+        "phone": "+44 20 1234 5678",
+        "storeid": "207",
+        "status": "ok",
+        "state": "Uttarakhand",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.602914, 27.342128]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Khangchendzonga national park | (120 Kms)",
+        "name": "Dallom fuels ",
+        "phone": "+44 20 1234 5678",
+        "storeid": "208",
+        "status": "ok",
+        "state": "WB/SIKKIM",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [89.2688441, 26.6650707]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Jaldapara national park | (3 Kms)",
+        "name": "Baba bhrigu petrol pump",
+        "phone": "+44 20 1234 5678",
+        "storeid": "209",
+        "status": "ok",
+        "state": "WB/SIKKIM",
+        "type": "HPCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.7382, 22.50484]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sunderban national park | (59 Kms)",
+        "name": "Fuel up",
+        "phone": "+44 20 1234 5678",
+        "storeid": "210",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.7081, 22.20864]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sunderban national park | (12 Kms)",
+        "name": "Kamini filling station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "211",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.3783, 26.77084]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Singalila national park | (2.6 Kms)",
+        "name": "Hill view fuels",
+        "phone": "+44 20 1234 5678",
+        "storeid": "212",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.6102, 22.50147]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sunderban national park | (73 Kms)",
+        "name": "Khan service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "213",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.415, 26.73647]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Singalila national park | (6.8 Kms)",
+        "name": "Free kick ventures",
+        "phone": "+44 20 1234 5678",
+        "storeid": "214",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.4124, 26.73305]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Singalila national park | (6.8 Kms)",
+        "name": "Sharda auto care",
+        "phone": "+44 20 1234 5678",
+        "storeid": "215",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.3826, 26.72323]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Singalila national park | (9 kms Kms)",
+        "name": "Five star",
+        "phone": "+44 20 1234 5678",
+        "storeid": "216",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.6821, 26.8699]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Gorumara national park | (36 Kms)",
+        "name": "Kanchanjangha service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "217",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [89.27757, 26.69012]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Jaldapara national park | (2 Kms)",
+        "name": "Madari hat auto service",
+        "phone": "+44 20 1234 5678",
+        "storeid": "218",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.4393, 26.752]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mahananda wildlife sanctuary | (11 Kms)",
+        "name": "Joy service station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "219",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92.7326, 11.6625]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Mahatma gandhi marine national park | (21 Kms)",
+        "name": "Aniidco junglighat",
+        "phone": "+44 20 1234 5678",
+        "storeid": "220",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.55118, 27.10246]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Neora valley national park | (36 Kms)",
+        "name": "The kelongs fuel station",
+        "phone": "+44 20 1234 5678",
+        "storeid": "221",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92.97162, 12.00885]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near South button island national park | (36 Kms)",
+        "name": "Eniyasundarpandian petrol pump",
+        "phone": "+44 20 1234 5678",
+        "storeid": "222",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.7085, 22.2088]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "Petrol Pump",
+        "hours": "10am - 10pm",
+        "description": "Near Sunderban national park | (12 Kms)",
+        "name": "Sundarban fuel centre",
+        "phone": "+44 20 1234 5678",
+        "storeid": "223",
+        "status": "ok",
+        "state": "West Bengal",
+        "type": "IOCL"
+      }
+    }
+  ]
+}
